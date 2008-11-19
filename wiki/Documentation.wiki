@@ -1,0 +1,6 @@
+#summary Usage details for the wiiboard simple libraries
+
+
+= Examples =
+
+To be added.
